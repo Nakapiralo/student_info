@@ -1,4 +1,9 @@
+npm install file-saver --save
+import { saveAs } from 'file-saver';
 
+
+const jsonObject: object = {
+      'spacecrafts':
 [
   {
     "id": "28",
