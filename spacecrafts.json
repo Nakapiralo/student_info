@@ -4,7 +4,7 @@
     "id": "28",
     "name": "Voyager A",
     "propellant": "Warp Drive",
-    "destination": "Alpha Centauri A",
+    "Destination": "Alpha Centauri A",
     "imageurl": "https://user-images.githubusercontent.com/54510030/63665183-134b8080-c77f-11e9-8e20-c9b165266cd9.jpg",
     "technologyexists": "1"
   },
